@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/dynamicwebpaige/stack-overflow-clusters-2019/main/results_from_2019_StackOverflow%20(2).tsv"
+    }
+  ]
+}
